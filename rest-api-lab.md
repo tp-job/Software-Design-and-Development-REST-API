@@ -404,7 +404,8 @@ npm run dev
    - URL: http://localhost:3000/api/bookings
 
   ### บันทึกผลการทดลอง
-  ![แทรกรูปผลการ Get ข้อมูลทั้งหมด](path/to/your/image.png)
+![image](https://github.com/user-attachments/assets/473387ef-6fe3-488c-931e-b1207fb8dec4)
+
 
    b) Get Booking by ID:
    - สร้าง Request ใหม่ชื่อ "Get Booking by ID"
@@ -413,7 +414,8 @@ npm run dev
    (เปลี่ยนเลข 1 เป็น ID ที่ได้จากการสร้างข้อมูล)
 
   ### บันทึกผลการทดลอง
-  ![แทรกรูปผลการ Get ข้อมูลโดยระบุ ID](path/to/your/image.png)
+ ![image](https://github.com/user-attachments/assets/6823291a-4211-42ca-828a-52ca760964cf)
+
 
    c) Update Booking:
    - สร้าง Request ใหม่ชื่อ "Update Booking"
@@ -423,15 +425,16 @@ npm run dev
    - แก้ไขข้อมูลบางส่วนใน JSON
 
   ### บันทึกผลการทดลอง
-  ![แทรกรูปผลการแก้ไขข้อมูล](path/to/your/image.png)
+![image](https://github.com/user-attachments/assets/fb97c110-a3f9-4f60-a2bd-88092f54cc90)
+
 
    d) Delete Booking:
    - สร้าง Request ใหม่ชื่อ "Delete Booking"
    - เลือก Method: DELETE
    - URL: http://localhost:3000/api/bookings/1
   
-    ### บันทึกผลการทดลอง
-  ![แทรกรูปผลการลบข้อมูล](path/to/your/image.png)
+![image](https://github.com/user-attachments/assets/4f0d7ac2-72d0-4574-a2cf-1cd30e9093dd)
+
 
   ### หยุดการทำงานของ API Server โดยกดปุ่ม Ctrl + c
 
